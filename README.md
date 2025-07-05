@@ -45,10 +45,31 @@
 
 ---
 
+### 💼 Featured Projects
+
+| Project | Description | Live |
+|--------|-------------|------|
+| 🛒 **E-Commerce App** | Full-stack MERN app with cart, payment, and admin dashboard | [Live](https://your-live-link.com) |
+| 🍽 **Food Delivery App** | Real-time order tracking with Google Maps and Razorpay | [Live](https://your-live-link.com) |
+| 🧠 **Quiz Game App** | Gamified quiz app with leaderboard and timer | [Live](https://your-live-link.com) |
+
+> View more projects on [GitHub Repos](https://github.com/Abhishekkvpnld?tab=repositories)
+
+---
+
+### 📘 What I'm Currently Learning
+
+- 🌐 Advanced **Next.js 14** with App Router and Middleware  
+- 📦 State Management using **Zustand** and **React Query**  
+- 📱 Responsive design systems with **Tailwind CSS**  
+- 🔐 Secure Authentication with **JWT**, **OAuth**, and **Clerk**
+
+---
+
 ### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkvpnld&show_icons=true&theme=radical&border_radius=12&hide_border=false&rank_icon=github" alt="Abhishek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkvpnld&show_icons=true&theme=radical&border_radius=12&hide_border=false&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -66,6 +87,15 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkvpnld&theme=react-dark&hide_border=false&area=true" alt="GitHub Contribution Graph" />
 </p>
+
+---
+
+### 🏅 Achievements & Certifications
+
+- 🥇 Completed 30+ projects using MERN stack
+- 🧾 Certified in React.js from Udemy by Jonas Schmedtmann
+- 💻 Completed Hacktoberfest 2023
+- 🚀 Built and deployed 10+ full-stack apps on **Vercel** and **Netlify**
 
 ---
 
