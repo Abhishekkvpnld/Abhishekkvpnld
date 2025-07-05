@@ -17,7 +17,6 @@
 
 - 🔭 Currently building full-stack apps with **React**, **Next.js**, **Node.js**, and **MongoDB**
 - 🌱 Exploring advanced **TypeScript**, **GraphQL**, and **Docker**
-- 🧠 Always curious to learn and improve scalable web development patterns
 - ✍️ Writing articles at [My Blog](https://abhishekkvpnld.github.io/Portfolio/#blog)
 - 📫 Reach me at: **abhishekkvpnld@gmail.com**
 - 🧾 [View My Resume](https://drive.google.com/file/d/1GDy64QNkyvyVLi8xEwfjASA-Z6nru2mG/view?usp=sharing)
@@ -48,23 +47,34 @@
 
 ### 📈 GitHub Insights
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkvpnld&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkvpnld&show_icons=true&theme=radical&border_radius=12&hide_border=false&rank_icon=github" alt="Abhishek's GitHub Stats" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkvpnld&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkvpnld&layout=compact&theme=radical&border_radius=12&hide_border=false" alt="Top Languages" />
 </p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkvpnld&theme=radical" alt="GitHub Streak" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkvpnld&theme=radical&hide_border=false&border_radius=12" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📆 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkvpnld&theme=react-dark&hide_border=false&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
 ### 🔍 Fun Facts
 
-- 🎯 I enjoy debugging more than writing code
-- 📚 I follow YouTube tutorials to explore different dev styles
-- 🧩 I like building real-time apps and dashboards
+- 🎯 I enjoy debugging more than writing code  
+- 📚 I follow YouTube tutorials to explore different development styles, workflows, and best practices from developers around the world  
+- 🔧 I often reverse-engineer features from real-world apps to improve my understanding of scalability and performance  
+- 🧩 I love building real-time apps and interactive dashboards  
+- 💡 I'm a big fan of minimal UI, clean architecture, and writing reusable code components  
 
 ---
-
