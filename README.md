@@ -20,17 +20,17 @@
 - ✍️ Writing articles at [My Blog](https://abhishekkvpnld.github.io/Portfolio/#blog)
 - 📫 Reach me at: **abhishekkvpnld@gmail.com**
 - 🧾 [View My Resume](https://drive.google.com/file/d/1GDy64QNkyvyVLi8xEwfjASA-Z6nru2mG/view?usp=sharing)
-- 🌐 Portfolio: [abhishekkvpnld.github.io/Portfolio](https://abhishekkvpnld.github.io/Portfolio/)
+- 🌐 Portfolio: [abhishekkvpnld.github.io/Portfolio](https://abhishekkvpnld.github.io/Portfolio)
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/abhishek-kv-77b0b7286" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-kv-77b0b7286/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/abhishekkv-1999" target="_blank">
+  <a href="https://leetcode.com/u/abhishekkv-1999/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" height="30" alt="LeetCode" />
   </a>
 </p>
@@ -47,22 +47,22 @@
 
 ### 💼 Featured Projects
 
-| Project | Description | Live |
-|--------|-------------|------|
-| 🛒 **E-Commerce App** | Full-stack MERN app with cart, payment, and admin dashboard | [Live](https://your-live-link.com) |
-| 🍽 **Food Delivery App** | Real-time order tracking with Google Maps and Razorpay | [Live](https://your-live-link.com) |
-| 🧠 **Quiz Game App** | Gamified quiz app with leaderboard and timer | [Live](https://your-live-link.com) |
+| Project | Description | Live | Code |
+|--------|-------------|------|------|
+| 🛒 **GadgetHub** | Scalable e-commerce app with Stripe payment, cart, admin dashboard | [Live](https://e-commerce-abhisheks-projects-70ee5198.vercel.app) | [GitHub](https://github.com/Abhishekkvpnld/E-Commerce) |
+| 🍽 **Deligo** | Full-stack food delivery app with TypeScript, Google OAuth, and Stripe | [Live](https://food-ordering-app-1-hbrc.onrender.com/) | [GitHub](https://github.com/Abhishekkvpnld/Food-Ordering-App) |
+| 💼 **DreamIt** | Job portal with recruiter dashboards and animated UI | [Live](https://job-portal-delta-ecru.vercel.app/) | [GitHub](https://github.com/Abhishekkvpnld/Job-Portal) |
 
-> View more projects on [GitHub Repos](https://github.com/Abhishekkvpnld?tab=repositories)
+> Explore more projects on [My GitHub Repos](https://github.com/Abhishekkvpnld?tab=repositories)
 
 ---
 
 ### 📘 What I'm Currently Learning
 
-- 🌐 Advanced **Next.js 14** with App Router and Middleware  
-- 📦 State Management using **Zustand** and **React Query**  
-- 📱 Responsive design systems with **Tailwind CSS**  
-- 🔐 Secure Authentication with **JWT**, **OAuth**, and **Clerk**
+- 🔧 Advanced **Next.js App Router** and SSR patterns  
+- 📦 State Management with **Zustand**, **React Query**  
+- 🔐 Authentication with **JWT**, **OAuth**, and **Clerk**  
+- 💅 Advanced UI libraries like **ShadCN UI** and **Framer Motion**
 
 ---
 
@@ -92,19 +92,19 @@
 
 ### 🏅 Achievements & Certifications
 
-- 🥇 Completed 30+ projects using MERN stack
-- 🧾 Certified in React.js from Udemy by Jonas Schmedtmann
-- 💻 Completed Hacktoberfest 2023
-- 🚀 Built and deployed 10+ full-stack apps on **Vercel** and **Netlify**
+- 🥇 Built & deployed 10+ full-stack apps using the MERN stack
+- 📜 React.js Certificate by Jonas Schmedtmann (Udemy)
+- 🚀 Participated in Hacktoberfest 2023
+- 🔁 Set up CI/CD pipelines via GitHub Actions & Docker
 
 ---
 
 ### 🔍 Fun Facts
 
 - 🎯 I enjoy debugging more than writing code  
-- 📚 I follow YouTube tutorials to explore different development styles, workflows, and best practices from developers around the world  
-- 🔧 I often reverse-engineer features from real-world apps to improve my understanding of scalability and performance  
+- 📚 I follow YouTube tutorials to explore different development styles, workflows, and best practices  
+- 🔧 I reverse-engineer real apps to learn scalability, architecture, and performance optimization  
 - 🧩 I love building real-time apps and interactive dashboards  
-- 💡 I'm a big fan of minimal UI, clean architecture, and writing reusable code components  
+- 💡 I'm a fan of clean UI, minimal design, and reusable code components  
 
 ---
