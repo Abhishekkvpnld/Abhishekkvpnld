@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=abhishekkvpnld">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhishekkvpnld&theme=algolia&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abhishekkvpnld&theme=algolia&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -33,9 +33,6 @@
   <a href="https://leetcode.com/u/abhishekkv-1999/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" height="30" alt="LeetCode" />
   </a>
-  <a href="mailto:abhishekkvpnld@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail" />
-  </a>
 </p>
 
 ---
@@ -56,7 +53,7 @@
 | 🍽 **Deligo** | Full-stack food delivery app with TypeScript, Google OAuth, and Stripe | [Live](https://food-ordering-app-1-hbrc.onrender.com/) | [GitHub](https://github.com/Abhishekkvpnld/Food-Ordering-App) |
 | 💼 **DreamIt** | Job portal with recruiter dashboards and animated UI | [Live](https://job-portal-delta-ecru.vercel.app/) | [GitHub](https://github.com/Abhishekkvpnld/Job-Portal) |
 
-> 🔍 Explore more projects on [My GitHub Repos](https://github.com/Abhishekkvpnld?tab=repositories)
+> Explore more projects on [My GitHub Repos](https://github.com/Abhishekkvpnld?tab=repositories)
 
 ---
 
@@ -69,26 +66,26 @@
 
 ---
 
-### 📈 GitHub Insights (Liquid Glass Body)
+### 📈 GitHub Insights
 
-<div align="center" style="background: rgba(255, 255, 255, 0.05); border-radius: 20px; padding: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.18);">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkvpnld&show_icons=true&theme=radical&border_radius=12&hide_border=false&rank_icon=github" alt="GitHub Stats" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkvpnld&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&border_radius=16" alt="GitHub Stats" />
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkvpnld&layout=compact&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_radius=16" alt="Top Languages" />
-  <br/><br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkvpnld&layout=compact&theme=radical&border_radius=12&hide_border=false" alt="Top Languages" />
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkvpnld&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&background=00000000&border=ffffff&border_radius=16" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkvpnld&theme=radical&hide_border=false&border_radius=12" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 📆 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkvpnld&theme=tokyo-night&hide_border=false&area=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkvpnld&theme=react-dark&hide_border=false&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -110,4 +107,4 @@
 - 🧩 I love building real-time apps and interactive dashboards  
 - 💡 I'm a fan of clean UI, minimal design, and reusable code components  
 
----
+---  include leetcode link in connected with me section and chenfe color of graph and make glass body to insight components
