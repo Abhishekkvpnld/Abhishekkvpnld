@@ -69,14 +69,18 @@
 
 ---
 
-### 📈 GitHub Insights
+### 📈 GitHub Insights (Liquid Glass Body)
 
-<div align="center" style="background: rgba(255, 255, 255, 0.05); border-radius: 16px; backdrop-filter: blur(10px); padding: 10px; box-shadow: 0 4px 30px rgba(0,0,0,0.1);">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkvpnld&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&rank_icon=github" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkvpnld&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkvpnld&theme=tokyonight&hide_border=false&border_radius=12" alt="GitHub Streak" />
+<div align="center" style="background: rgba(255, 255, 255, 0.05); border-radius: 20px; padding: 20px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.18);">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkvpnld&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&border_radius=16" alt="GitHub Stats" />
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkvpnld&layout=compact&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_radius=16" alt="Top Languages" />
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkvpnld&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&background=00000000&border=ffffff&border_radius=16" alt="GitHub Streak" />
+
 </div>
 
 ---
