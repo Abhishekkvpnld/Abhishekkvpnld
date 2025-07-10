@@ -40,7 +40,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,redux,tailwind,bootstrap,materialui,shadcnui,reactquery,framer,formik,yup,socketio,jwt,vitest,git,github,docker,vercel,netlify,render,vscode,githubactions,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,express,mongodb,mysql,firebase,redux,tailwind,bootstrap,materialui,git,github,docker,vite,prisma,aws,npm,jest,vscode,githubactions,postman,figma" />
 </p>
 
 ---
