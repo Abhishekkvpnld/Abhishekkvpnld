@@ -27,9 +27,10 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhishek-kv-77b0b7286/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/abhishek-kv-77b0b7286/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+</a>
+
   <a href="https://leetcode.com/abhishekkv-1999/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" height="30" alt="LeetCode" />
   </a>
