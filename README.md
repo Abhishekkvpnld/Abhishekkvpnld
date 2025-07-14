@@ -27,7 +27,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhishek-kv-77b0b7286/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-kv-77b0b7286/" height="80" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="80" alt="LinkedIn" />
   </a>
 
