@@ -28,15 +28,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abhishek-kv-77b0b7286/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="80" alt="LinkedIn" />
   </a>
 
   <a href="https://leetcode.com/abhishekkv-1999/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" height="40" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" height="80" alt="LeetCode" />
   </a>
 
   <a href="https://abhishekkvpnld.github.io/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" height="40" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" height="80" alt="Portfolio" />
   </a>
 </p>
 
