@@ -8,12 +8,13 @@
 <p align="center">
   <a href="https://github.com/abhishekkvpnld">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=abhishekkvpnld&theme=gruvbox&margin-w=15&column=6" 
+      src="https://github-profile-trophy.vercel.app/?username=abhishekkvpnld&theme=flat&margin-w=15&column=6" 
       alt="GitHub Trophies" 
       style="max-width: 100%;" 
     />
   </a>
 </p>
+
 
 
 ---
