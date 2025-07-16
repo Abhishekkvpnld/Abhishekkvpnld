@@ -81,16 +81,15 @@
 ### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkvpnld&show_icons=true&theme=github&border_radius=12&hide_border=false&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkvpnld&show_icons=true&theme=vue-dark&border_radius=12&hide_border=false&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkvpnld&layout=compact&theme=github&border_radius=12&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkvpnld&layout=compact&theme=vue-dark&border_radius=12&hide_border=false" alt="Top Languages" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkvpnld&theme=github&hide_border=false&border_radius=12" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkvpnld&theme=vue-dark&hide_border=false&border_radius=12" alt="GitHub Streak" />
 </p>
 
 ---
