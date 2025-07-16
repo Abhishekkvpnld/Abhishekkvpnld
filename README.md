@@ -88,9 +88,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkvpnld&layout=compact&theme=github&border_radius=12&hide_border=false" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkvpnld&theme=github&hide_border=false&border_radius=12" alt="GitHub Streak" />
@@ -101,8 +98,11 @@
 ### 📆 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkvpnld&theme=github&hide_border=false&area=true" alt="GitHub Contribution Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkvpnld&theme=react&hide_border=false&area=true&area_color=90ee90&point=ffa500" 
+    alt="GitHub Contribution Graph" />
 </p>
+
 
 
 ### 🏅 Achievements & Certifications
