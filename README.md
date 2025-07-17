@@ -122,4 +122,4 @@
 - 🧩 I love building real-time apps and interactive dashboards  
 - 💡 I'm a fan of clean UI, minimal design, and reusable code components  
 
----  include leetcode link in connected with me section and chenfe color of graph and make glass body to insight components
+---
