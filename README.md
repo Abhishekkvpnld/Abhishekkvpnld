@@ -75,6 +75,7 @@
 - 📦 State Management with **Zustand**, **React Query**  
 - 🔐 Authentication with **JWT**, **OAuth**, and **Clerk**  
 - 💅 Advanced UI libraries like **ShadCN UI** and **Framer Motion**
+- 🧪 Unit testing with **React Testing Library** and **Vitest**
 
 ---
 
