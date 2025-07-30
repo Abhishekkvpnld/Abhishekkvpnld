@@ -9,11 +9,11 @@
   <a href="https://github.com/abhishekkvpnld">
     <img 
       src="https://github-profile-trophy.vercel.app/?username=abhishekkvpnld&theme=flat&margin-w=15&column=6" 
-      alt="GitHub Trophies" 
-      style="max-width: 100%;" 
+      alt="GitHub Trophies"
     />
   </a>
 </p>
+
 
 
 
