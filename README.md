@@ -21,11 +21,10 @@
 
 ### 🚧 About Me
 
-- 🔭 Currently building full-stack apps with **React**, **Next.js**, **Node.js**, and **MongoDB**
-- 🌱 Exploring advanced **TypeScript**, **GraphQL**, and **Docker**
-- ✍️ Writing articles at [My Blog](https://abhishekkvpnld.github.io/Portfolio/#blog)
-- 📫 Reach me at: **abhishekkvpnld@gmail.com**
-- 🧾 [View My Resume](https://drive.google.com/file/d/1GDy64QNkyvyVLi8xEwfjASA-Z6nru2mG/view?usp=sharing)
+- 🔭 Currently building full-stack apps with **React**, **Next.js**, **Node.js**, and **MongoDB**  
+- 🌱 Exploring advanced **TypeScript**, **GraphQL**, and **Docker**  
+- 📫 Reach me at: **abhishekkvpnld@gmail.com**  
+- 🧾 [View My Resume](https://drive.google.com/file/d/1GDy64QNkyvyVLi8xEwfjASA-Z6nru2mG/view?usp=sharing)  
 - 🌐 Portfolio: [abhishekkvpnld.github.io/Portfolio](https://abhishekkvpnld.github.io/Portfolio)
 
 ---
