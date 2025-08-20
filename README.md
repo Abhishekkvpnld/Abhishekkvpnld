@@ -110,10 +110,12 @@
 
 ### 🏅 Achievements & Certifications
 
-- 🥇 Built & deployed 10+ full-stack apps using the MERN stack
-- 📜 React.js Certificate by Jonas Schmedtmann (Udemy)
-- 🚀 Participated in Hacktoberfest 2023
-- 🔁 Set up CI/CD pipelines via GitHub Actions & Docker
+- 🥇 Built & deployed 10+ full-stack apps using the **MERN stack**
+- 📜 **React.js Certificate** by Jonas Schmedtmann (Udemy)
+- 🚀 Participated in **Hacktoberfest 2023**
+- 🔁 Set up **CI/CD pipelines** via GitHub Actions & Docker
+- 💡 Solved **200+ problems on LeetCode** to strengthen DSA & problem-solving skills
+
 
 ---
 
