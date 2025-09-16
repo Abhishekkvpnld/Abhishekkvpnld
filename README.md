@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek KV</h1>
-<h3 align="center">🚀 MERN Stack Developer | Building Efficient and Scalable Web Solutions from Kerala</h3>
+<h3 align="center">🚀 MERN Stack Developer | Building Efficient and Scalable Web Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekkvpnld&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
